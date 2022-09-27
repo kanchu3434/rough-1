@@ -1,0 +1,73 @@
+*{
+   text-decoration: none;
+   margin: 0;
+    
+}
+/*catagoris part*/
+.dry{
+     
+    width: 80%;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 125px;
+    
+    }
+      .fruits{ 
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 300px;
+        width: 81%;
+        margin-top: 5px;
+        margin-left: 120px;
+        padding-top: 0px;
+        padding-top: 0 px;
+      }
+      .almond{
+        height:250px;
+        width: 200px;
+        display: block;
+        justify-content: center;
+        padding: 12px;
+        border:1px solid #d4d9de;
+        box-shadow: 1px 1px 1px 1px #e2e6e9;
+        background-color: white;
+        cursor: pointer;
+        } 
+     
+      
+      .cashew{
+       background-color: white;
+        height:250px;
+        width: 200px;
+        display: block;
+        justify-content: center;
+        padding: 12px;
+        box-shadow: 1px 1px 1px 1px #e2e6e9;
+        border:1px solid #d4d9de;
+      }
+      .dates{
+        height:250px;
+        display: block;
+        justify-content: center;
+        padding: 12px;
+        width: 200px;
+        box-shadow: 1px 1px 1px 1px #e2e6e9;
+        border:1px solid #d4d9de;
+        background-color: white; 
+      }
+      .raisins{
+        height:250px;
+        width: 200px;
+        display: block;
+        justify-content: center;
+        padding: 12px;
+        box-shadow: 1px 1px 1px 1px #e2e6e9;
+        border:1px solid #d4d9de; 
+        background-color: white;
+      }
+      .offer{
+       color: tomato;
+       text-align: center;
+       margin-left: 50px;
+      }
